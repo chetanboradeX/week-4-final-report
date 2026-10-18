@@ -402,11 +402,6 @@ The organization should obtain appropriate legal or compliance guidance to deter
 
 ---
 
-## 📸 Evidence and Screenshots
-
-Use screenshots from your actual lab submissions to document the work.
-
-Organize the screenshots in a `screenshots` folder in your repository.
 
 ### 1. Reconnaissance
 
